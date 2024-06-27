@@ -1,0 +1,1 @@
+The project implements a simple modular and configurable Zero-Knowledge Proof (ZKP) protocols in Python.

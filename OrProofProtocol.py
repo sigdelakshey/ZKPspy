@@ -1,6 +1,6 @@
 from CryptoData import BigIntData, CryptoData, CryptoDataArray
 from ZKProtocol import ZKProtocol
-from Utils import generate_random
+from Utils import generate_random 
 
 class OrProofProtocol(ZKProtocol):
     def __init__(self, config, protocols):

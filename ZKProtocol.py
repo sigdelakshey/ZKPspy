@@ -1,5 +1,4 @@
 from abc import ABC, abstractmethod
-
 from CryptoData import CryptoData
 
 class ZKProtocol(ABC):

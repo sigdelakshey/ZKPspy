@@ -1,4 +1,3 @@
-from ZKProtocol import ZKProtocol # type: ignore
 from SchnorrProtocolProveSecretKey import SchnorrProtocolProveSecretKey
 from PedersenSchnorrProtocol import PedersenSchnorrProtocol
 from OrProofProtocol import OrProofProtocol

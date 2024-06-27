@@ -53,7 +53,7 @@ def test_or_proof_protocol(config, m, r1, x, challenge):
 
 def main():
     prime_generator = PublicGenerator()
-    #prime_generator.display_parameters()
+    prime_generator.display_parameters()
 
     config = ZKConfig(p=prime_generator.p, q=prime_generator.q, g=prime_generator.g, h=prime_generator.h, y=prime_generator.y)
     m = 2

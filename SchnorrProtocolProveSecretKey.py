@@ -1,5 +1,5 @@
 from CryptoData import BigIntData, CryptoData, CryptoDataArray
-from ZKProtocol import ZKProtocol # type: ignore
+from ZKProtocol import ZKProtocol
 from PedersenCommitment import PedersenCommitment
 
 class SchnorrProtocolProveSecretKey(ZKProtocol):
