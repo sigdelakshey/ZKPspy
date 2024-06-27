@@ -1,7 +1,7 @@
 from CryptoData import BigIntData, CryptoData, CryptoDataArray
 from ZKProtocol import ZKProtocol # type: ignore
 from Utils import generate_random
-from PedersenCommitment import PedersenCommitment # type: ignore
+from PedersenCommitment import PedersenCommitment
 
 class PedersenSchnorrProtocol(ZKProtocol):
     def __init__(self, config):

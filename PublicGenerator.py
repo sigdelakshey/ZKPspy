@@ -1,4 +1,4 @@
-from sympy import isprime, randprime # type: ignore
+from sympy import isprime, randprime
 import random
 
 from Utils import generate_random, generate_random_bit

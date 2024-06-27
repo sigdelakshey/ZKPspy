@@ -1,9 +1,7 @@
-
-#WIP
 from ZKProtocol import ZKProtocol # type: ignore
-from SchnorrProtocolProveSecretKey import SchnorrProtocolProveSecretKey # type: ignore
-from PedersenSchnorrProtocol import PedersenSchnorrProtocol # type: ignore
-from OrProofProtocol import OrProofProtocol # type: ignore
+from SchnorrProtocolProveSecretKey import SchnorrProtocolProveSecretKey
+from PedersenSchnorrProtocol import PedersenSchnorrProtocol
+from OrProofProtocol import OrProofProtocol
 
 from Config import ZKConfig
 
